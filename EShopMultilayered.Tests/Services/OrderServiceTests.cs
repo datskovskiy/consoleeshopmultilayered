@@ -9,7 +9,7 @@ using EShopMultilayered.Service.Implementation;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ConsoleEShop.Tests.Services
+namespace EShopMultilayered.Tests.Services
 {
     [TestClass]
     public class OrderServiceTests

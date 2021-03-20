@@ -7,7 +7,7 @@ using EShopMultilayered.DataAccess.Enums;
 using EShopMultilayered.DataAccess.Interfaces;
 using EShopMultilayered.Service.Implementation;
 
-namespace ConsoleEShop.Tests.Services
+namespace EShopMultilayered.Tests.Services
 {
     [TestClass]
     public class UserServiceTests

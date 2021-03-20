@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleEShop.Tests.Services
+namespace EShopMultilayered.Tests.Services
 {
     [TestClass]
     public  class ProductServiceTests
